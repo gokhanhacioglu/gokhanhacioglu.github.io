@@ -58,11 +58,11 @@ social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinteres
 #     - **optional**
 social-links:
   - name: facebook
-    url-pattern: facebook.com/__USERNAME__
+    url-pattern: facebook.com/gokhanet
     icon-class: fab fa-2x fa-facebook-f
 
   - name: twitter
-    url-pattern: twitter.com/__USERNAME__
+    url-pattern: twitter.com/gokhanhacioglu
 
   - name: linkedin
     url-pattern: linkedin.com/in/__USERNAME__
@@ -77,7 +77,7 @@ social-links:
     url-pattern: weibo.com/__USERNAME__
 
   - name: instagram
-    url-pattern: instagram.com/__USERNAME__
+    url-pattern: instagram.com/ofansifguvenlik
 
   - name: flickr
     url-pattern: flickr.com/__USERNAME__
@@ -86,7 +86,7 @@ social-links:
     url-pattern: pinterest.com/__USERNAME__
 
   - name: github-user
-    url-pattern: github.com/__USERNAME__
+    url-pattern: github.com/gokhanhacioglu
     icon-class: fab fa-2x fa-github
 
   - name: gitlab-user
@@ -151,6 +151,6 @@ social-links:
     icon-class: fas fa-2x fa-blog
 
   - name: email
-    url-scheme: 'mailto:'
+    url-scheme: 'mailto:gokhanhacioglu@gmail.com'
     url-pattern: '__USERNAME__'
     icon-class: far fa-2x fa-envelope-open
